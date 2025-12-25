@@ -3,40 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NBA Points Prediction Model</title>
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            line-height: 1.65;
-            margin: 40px auto;
-            max-width: 900px;
-            color: #111;
-        }
-        h1, h2 {
-            border-bottom: 2px solid #222;
-            padding-bottom: 6px;
-        }
-        h3 {
-            margin-top: 22px;
-        }
-        pre {
-            background: #f4f4f4;
-            padding: 14px;
-            border-radius: 6px;
-            overflow-x: auto;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        .section {
-            margin-top: 32px;
-        }
-        .highlight {
-            background: #f9f9f9;
-            padding: 14px;
-            border-left: 4px solid #222;
-        }
-    </style>
+    
 </head>
 <body>
 
